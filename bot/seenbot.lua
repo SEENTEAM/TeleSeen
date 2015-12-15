@@ -435,5 +435,5 @@ end
 -- Start and load values
 our_id = 0
 now = os.time()
-math.randomseed(now)
+math.randomseen(now)
 started = false
