@@ -224,10 +224,10 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseen v1
+    about_text = [[Teleinvoker v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEENTEAM/TeleSeen
+https://github.com/invokerteam1/invoker
 
 Admins
 @theworldking [Founder]
@@ -241,7 +241,7 @@ Kourosh hemmati
 Ali vahedian
 
 Our channels
-@teleseen_ch [English]
+@invokerch [English]
 ]],
     help_text = [[
 Commands list :
